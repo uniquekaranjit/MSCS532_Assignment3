@@ -19,6 +19,8 @@ The primary components of the project are:
   
 - **hash_table_chaining.py**: Python script that implements a **hash table** with **chaining** to handle collisions. It visualizes how keys are distributed across the hash table.
 
+- **Analysis_Report.pdf**: A report regarding the analysis of quicksort algorithms and hash table. 
+
 - **requirements.txt**: A file containing the dependencies required to run the Python code. Use this file to set up the Python environment.
 
 ## Getting Started
